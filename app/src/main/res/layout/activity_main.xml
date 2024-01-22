@@ -1,0 +1,108 @@
+<GridLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:rowCount="3"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="1"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola1"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="2"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola2"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="3"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola3"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="4"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola4"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="5"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola5"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="6"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola6"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="7"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola7"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="8"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola8"
+        android:textSize="35sp"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="9"
+        android:background="@color/black"
+        android:layout_margin="5dp"
+        android:id="@+id/btnhola9"
+        android:textSize="35sp"/>
+
+</GridLayout>
